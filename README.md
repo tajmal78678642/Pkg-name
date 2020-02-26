@@ -1,2 +1,0 @@
-# Pkg-name
-Pkg.txt

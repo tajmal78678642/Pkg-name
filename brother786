@@ -1,0 +1,10 @@
+
+apt install update && upgrade
+apt install python2
+apt install git
+pip2 install mechanize
+pip2 install requests
+git clone https://github brothers786.com/brothers786
+cd brothers786
+ls
+python2 brothers786.py
